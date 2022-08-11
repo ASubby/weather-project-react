@@ -10,6 +10,7 @@ export default function App() {
         <a
           href="https://github.com/ASubby/weather-project-react"
           target="_blank"
+          rel="noreferrer"
         >
           {" "}
           Open-sourced{" "}
